@@ -5,8 +5,7 @@ require 'pry'
 require './candidates'
 require './filters'
 
-## Your test code can go here
+pp ordered_by_qualifications(@candidates)
 
 # binding.pry
 
-pp @candidates
